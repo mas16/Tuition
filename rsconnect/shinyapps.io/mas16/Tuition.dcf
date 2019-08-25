@@ -1,0 +1,13 @@
+name: Tuition
+title: Tuition
+username:
+account: mas16
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1112719
+bundleId: 2354220
+url: https://mas16.shinyapps.io/Tuition/
+when: 1566764804.27532
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: TuitionSlides.html|TuitionSlides.Rmd
