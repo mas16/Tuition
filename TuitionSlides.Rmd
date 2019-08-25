@@ -3,7 +3,6 @@ title: "Predictive Modeling of College Tuition Cost"
 author: "by mas16"
 date: "25 August 2019"
 output: ioslides_presentation
-keep_md: true
 ---
 
 ```{r setup, include=FALSE}
@@ -20,7 +19,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## Addressing the College Tuition Crisis
 
-* One potential solution to reducing student loan debt is to inform potential applicants of the high cost of college tuition **before** they enroll
+* One potential solution to reducing student loan debt is to inform applicants of the high cost of college tuition **before** they enroll
 
 * A web application has been created to predict the cost of college tuition through the year 2035
 
@@ -53,4 +52,4 @@ The code for the web app can be accessed in the GitHub repo linked below:
 - GitHub Repo: [https://github.com/mas16/Tuition](https://github.com/mas16/Tuition)
 
 This presentation can be accessed at the GitHub page linked below:  
-- Github Page:
+- Github Page: [https://mas16.github.io/Tuition/TuitionSlides.html#1](https://mas16.github.io/Tuition/TuitionSlides.html#1)
